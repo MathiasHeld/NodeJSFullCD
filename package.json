@@ -1,0 +1,23 @@
+{
+  "name": "nodejsfullcd",
+  "version": "0.0.1",
+  "description": "Full \"e\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MathiasHeld/NodeJSFullCD.git"
+  },
+  "keywords": [
+    "node",
+    "CD"
+  ],
+  "author": "Mathias Held",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MathiasHeld/NodeJSFullCD/issues"
+  },
+  "homepage": "https://github.com/MathiasHeld/NodeJSFullCD"
+}
